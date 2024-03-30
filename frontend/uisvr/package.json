@@ -15,6 +15,9 @@
 		"test:unit": "vitest"
 	},
 	"devDependencies": {
+		"@bufbuild/buf": "^1.30.0",
+		"@bufbuild/protoc-gen-es": "^1.8.0",
+		"@connectrpc/protoc-gen-connect-es": "^1.4.0",
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
